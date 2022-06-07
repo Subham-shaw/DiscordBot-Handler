@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "prefix": "",
+    "ownerID": "759717127484604437",
+
+    "status": {
+        "text": "{name} | {membercount} Members",
+        "text2": "{prefix}help | {commands} Commands",
+        "type": "PLAYING",
+        "url": "https://twitch.tv/#"
+    }
+
+}

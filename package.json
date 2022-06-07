@@ -1,0 +1,28 @@
+{
+  "name": "discordbot-handler",
+  "version": "1.0.0",
+  "description": "This is a bot coded by Suham Shaw#1334",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.9.0",
+    "cron": "^2.0.0",
+    "discord-together": "^1.3.3",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^13.6.0",
+    "express-session": "^1.17.3",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "libsodium-wrappers": "^0.7.10",
+    "moment": "^2.29.3",
+    "ms": "^2.1.3",
+    "youtube-sr": "^4.1.17",
+    "ytdl-core": "^4.11.0"
+  }
+}
