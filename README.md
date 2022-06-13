@@ -12,7 +12,7 @@ First Of All Thank you So Much For Using My Command Handler.
 
 * [Node.js](https://nodejs.org) Version 16.6 Or Higher, I Recommend the STABLE Version To Get Rid Of Any Errors.
 * A VPS would be advised, so you don't need to keep your PC/laptop/RasPi 24/7 online! 
-* If You Have A VPS Then See This [VPS Ubuntu Setup Guide](/#-VPS-Ubuntu-Setup-Guide) 
+* If You Have A VPS Then See This [VPS Ubuntu Setup Guide](https://github.com/Subham-shaw/DiscordBot-Handler#-vps-ubuntu-setup-guide) 
 
 </details>
 
