@@ -46,27 +46,21 @@ First Of All Thank you So Much For Using My Command Handler.
 1. Package Installation 
     * Type The Following In Your Console Or Terminal To Install The Required Packages
     ```
-
     npm i @discordjs/opus @discordjs/voice cron discord-ytdl-core discord.js ffmpeg-static fs libsodium-wrappers moment ms youtube-sr ytdl-core
-
     ```
     After The Packages Are Installed Ignore The red and yellow errors instead of `npmERR` Errors. 
     If You Are Getting This Kind Of Errors Then You Need to read And Understand What Is The Error Like If Any File Is Missing Or Something Like That.
 
     * Now, Type The Following In The Console To Start Your Bot
     ```
-
     node index.js
-
     ```
     **Note**:- You Can Also Type `node .` To Start The Bot
 
 2. Error Solving 
     * If You Are Getting `node:events` Error While Running `node .` or `node index.js`, Paste This Command In Your Console Or Terminal
     ```
-
     npm i --save-dev node@lts && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
-
     ```
 ### You Are Good To Go Now! ✈️
 
@@ -84,6 +78,9 @@ First Of All Thank you So Much For Using My Command Handler.
     * Step 1 – Update the APT index
     ```
     sudo apt update -y  
+    ```
+
+    ```
     sudo apt clean all
     ```
 
@@ -91,7 +88,6 @@ First Of All Thank you So Much For Using My Command Handler.
     * Execute the commands below as root user.
     ```
     curl -fsSL https://deb.nodesource.com/setup_16.x | sudo bash -
-
     ```    
 
     * Once the Node.js repository is configured, install Node.js by executing the commands below:
